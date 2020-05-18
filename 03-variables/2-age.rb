@@ -8,3 +8,5 @@ age_30 = age + 30
 puts "In 10 years you will be #{age_10}!"
 puts "In 20 years you will be #{age_20}!"
 puts "In 30 years you will be #{age_30}!"
+
+puts
